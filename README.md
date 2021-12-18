@@ -1,2 +1,2 @@
-# xhackerino-itmo-university-java-programming-lab 3
+# xhackerino-itmo-university-java-programming-labs
 Itmo prog labs 1st semester
