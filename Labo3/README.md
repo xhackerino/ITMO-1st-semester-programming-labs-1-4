@@ -1,4 +1,3 @@
-# xhackerino-itmo-university-java-programming-labs
-Itmo prog labs 1st semester
+# xhackerino-itmo-university-java-programming-lab three
 
 Посвящается Алексею @cup_of_code Егошину
